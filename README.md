@@ -4,7 +4,7 @@ Ce projet consiste à créer un jeu Snake basique en utilisant HTML, CSS et Java
 ## Instructions
 - Clonez ce dépôt sur votre machine locale.
 - Ouvrez le fichier index.html dans votre navigateur pour jouer au jeu.
-- 
+
 ## Fonctionnalités du jeu
 Le serpent peut être contrôlé à l'aide des touches directionnelles (haut, bas, gauche, droite) du clavier.
 L'objectif du jeu est de guider le serpent pour qu'il mange les pommes qui apparaissent sur le terrain.
