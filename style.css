@@ -1,0 +1,20 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: #ddd;
+}
+
+#snakeCanvas {
+    max-width: 80vw;
+    margin: 0 auto;
+    height: auto;
+}
