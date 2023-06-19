@@ -12,7 +12,4 @@ Chaque fois que le serpent mange une pomme, il grandit et le score augmente.
 Si le serpent entre en collision avec les bords du terrain ou avec lui-même, le jeu est terminé.
 Pour redémarrer le jeu après un Game Over, appuyez sur la touche Espace.
 
-## Licence
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
-
 Amusez-vous bien avec le jeu du Snake !
